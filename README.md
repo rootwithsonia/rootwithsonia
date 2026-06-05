@@ -1,3 +1,4 @@
+[README (1).md](https://github.com/user-attachments/files/28622715/README.1.md)
 <div align="center">
 
 ```
@@ -8,6 +9,33 @@
 ██║  ██║╚██████╔╝╚██████╔╝   ██║       ╚███╔███╔╝██║   ██║   ██║  ██║    ███████║╚██████╔╝██║ ╚████║██║██║  ██║
 ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝        ╚══╝╚══╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝
 ```
+# Hi, I'm Sonia 👋
+
+Security enthusiast learning ethical hacking — one script at a time.
+
+---
+
+**Focus**
+- Ethical Hacking
+- OSINT & Recon
+- Scripting & Automation
+
+**Skills**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=linux&logoColor=white)
+
+---
+
+**Projects**
+
+- 🔍 [recon-tool](https://github.com/rootwithsonia/recon-tool) — Automated recon script (Bash + Python)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootwithsonia&show_icons=true&hide_border=true&theme=default&hide=prs)
 
 ### `whoami` — Security Researcher | Ethical Hacker | CTF Player
 
