@@ -10,8 +10,7 @@
 ┌──(soniya㉿kali)-[~]
 └─$ cat about.txt
 
-  Name     : Soniya Selvaraj
-  Handle   : rootwithsonia
+  Name     : Soniyashri Selvaraj
   Role     : Cybersecurity Enthusiast
   Status   : Learning | Breaking | Building
   Motto    : "Know the system. Own the system. Secure the system."
